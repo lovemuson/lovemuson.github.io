@@ -27,3 +27,9 @@ body {
     top: 170px;
     margin: 5px;
 }
+
+.alboomavatar {
+    position: relative;
+    width: 200px;
+    top: 130px;
+}
