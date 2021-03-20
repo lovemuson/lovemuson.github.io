@@ -31,5 +31,10 @@ body {
 .alboomavatar {
     position: relative;
     width: 200px;
-    top: 130px;
+    top: 50px;
+}
+
+.music1 {
+    position: relative;
+    bottom: 30px;
 }
